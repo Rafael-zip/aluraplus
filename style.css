@@ -150,7 +150,6 @@ margin: 5em 0;
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
-
 @media screen and ( max_width: 768px) {
     .container {
       display: block;
